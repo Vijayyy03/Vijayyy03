@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Vijay Jagdale
 
 🎯 Passionate and results-driven **Software Engineer** with a strong foundation in **Java**, **Python**, **SQL**, **Data Structures**, and **Algorithms**. I specialize in building scalable software systems and AI-powered solutions that solve real-world problems.
