@@ -1,69 +1,80 @@
-# 👋 Hi, I'm Vijay Jagdale
+# 🚀 Hi, I'm Vijay Jagdale  
 
-🎯 Passionate and results-driven **Software Engineer** with a strong foundation in **Java**, **Python**, **SQL**, **Data Structures**, and **Algorithms**. I specialize in building scalable software systems and AI-powered solutions that solve real-world problems.
-
-📫 **Contact**:  
-📧 [jagdalevijay92@gmail.com](mailto:jagdalevijay92@gmail.com)  
-📱 +91-8652454072  
-🔗 [Portfolio Website](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/vijaysatishjagdale/)  
-🔗 [GitHub](https://github.com/Vijayyy03)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vijaysatishjagdale/)
+[![GitHub Followers](https://img.shields.io/github/followers/Vijayyy03?label=Followers&style=flat-square)](https://github.com/Vijayyy03)
+[![Gmail](https://img.shields.io/badge/Email-jagdalevijay92%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jagdalevijay92@gmail.com)
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 **About Me**
 
-- 💡 Currently completed **MCA** from **MIT-World Peace University** (GPA: 7.24)
-- 🎓 B.Sc. in Information Technology from **Vidyalankar School of Information Technology** (GPA: 8.80)
-- 🤖 Interned at **Bhabha Atomic Research Centre (BARC)**, developing ML and computer vision pipelines
-- 🔍 Strong interest in **AI/ML**, **Computer Vision**, and **Backend Development**
-- 👥 Effective team player with leadership, communication, and problem-solving skills
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: Python, Java, C++, JavaScript, HTML/CSS, SQL
-- **Frameworks & Libraries**: Scikit-learn, Pandas, NumPy, OpenCV
-- **Databases**: MySQL
-- **Other Tools**: Linux, Git/GitHub, VS Code
-- **Fundamentals**: OOP, OS, DBMS, Networking, DSA
+🎓 Completed **Master of Computer Applications (MCA)** from **MIT-World Peace University** (2023–2025)  
+💻 **Software Engineer** with expertise in **Python**, **Java**, **SQL**, and **Full Stack Development**  
+🤖 Experienced in **Machine Learning**, **Computer Vision**, and **Data Science**  
+🚀 Passionate about building **scalable applications** and solving **real-world problems**  
+🌱 Currently enhancing my expertise in **Cloud & AI-powered full-stack projects**
 
 ---
 
-## 🔬 Experience
+## 🛠 **Tech Stack**
 
-### 👨‍💻 Project Trainee – Machine Learning Intern  
-**Bhabha Atomic Research Centre (BARC)** | *Jan 2025 – July 2025*
-- Developed an ML-based real-time defect detection system for industrial pipelines using OpenCV and deep learning
-- Achieved **95% precision** across 20,000+ video frames, reducing manual inspection time by **30%**
-- Built and deployed a **production-ready computer vision pipeline** with timestamping and anomaly classification
+**Languages:**  
+`Python` | `Java` | `C++` | `JavaScript` | `SQL` | `HTML/CSS`
 
----
+**Frameworks & Libraries:**  
+`OpenCV` | `Scikit-learn` | `NumPy` | `Pandas` | `Flask` | `React` | `Node.js`  
 
-## 🚀 Projects
+**Databases:**  
+`MySQL` | `SQLite`  
 
-### 🌾 ML-Driven Crop Yield Prediction Framework
-- Built using Python, Scikit-learn, Pandas, NumPy on 10+ years of agricultural data
-- Achieved **92% accuracy**, providing farmers with crop recommendations
-- Features: Data preprocessing, feature engineering, yield forecasting
-
-### 💼 HireEase Job Portal
-- Java + JDBC + MySQL-based job platform for employers and job seekers
-- Designed normalized relational DB (3+ tables), implemented secure auth & CRUD
-- Achieved **95% query efficiency** and improved backend code reusability by **40%**
+**Other Skills:**  
+`Machine Learning` | `Computer Vision` | `DSA` | `OOP` | `Software Testing` | `Linux` | `Git & GitHub`
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 **Experience**
 
-> 🚧 *Working on new full-stack and AI projects. Stay tuned!*
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vijayyy03&show_icons=true&theme=radical)
+### **💼 Machine Learning Intern – BARC (Bhabha Atomic Research Centre)**  
+**Jan 2025 – July 2025**  
+- Built a **real-time pipeline defect detection system** using **OpenCV + Deep Learning**  
+- Achieved **95% precision** over 20,000+ frames, reducing manual inspection by **30%**  
+- Deployed a **production-grade computer vision pipeline**, improving operational safety  
 
 ---
 
-## 📬 Let's Connect!
+## 🚀 **Highlighted Projects**
 
-Feel free to reach out if you're hiring, want to collaborate, or just want to talk tech!  
-⭐️ *Thanks for visiting my profile!*
+### **🌾 ML-Driven Crop Yield Prediction**
+- Developed a predictive model with **92% accuracy** using **Python, Scikit-learn**  
+- Processed 10+ years of agricultural data with **advanced feature engineering**  
+- Built a **recommendation engine** helping farmers increase yield by 15%
+
+### **💼 HireEase Job Portal**
+- Full-stack job platform built with **Java + JDBC + MySQL**  
+- Designed a **role-based authentication** system with secure CRUD  
+- Optimized queries achieving **95% performance improvement**
+
+---
+
+## 📊 **GitHub Analytics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijayyy03&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayyy03&theme=tokyonight" alt="GitHub streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayyy03&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📬 **Let's Connect!**
+
+💌 [Email Me](mailto:jagdalevijay92@gmail.com) |  
+🔗 [LinkedIn](https://www.linkedin.com/in/vijaysatishjagdale/) |  
+🌐 [Portfolio](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
+
+⭐ *Thanks for visiting my GitHub profile!*
+
