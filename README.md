@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-- 💡 Currently pursuing **MCA** at **MIT-World Peace University** (GPA: 7.24)
+- 💡 Currently completed **MCA** from **MIT-World Peace University** (GPA: 7.24)
 - 🎓 B.Sc. in Information Technology from **Vidyalankar School of Information Technology** (GPA: 8.80)
 - 🤖 Interned at **Bhabha Atomic Research Centre (BARC)**, developing ML and computer vision pipelines
 - 🔍 Strong interest in **AI/ML**, **Computer Vision**, and **Backend Development**
