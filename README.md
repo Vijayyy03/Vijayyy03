@@ -1,80 +1,111 @@
-# 🚀 Hi, I'm Vijay Jagdale  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=vercel)](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vijaysatishjagdale/)
-[![GitHub Followers](https://img.shields.io/github/followers/Vijayyy03?label=Followers&style=flat-square)](https://github.com/Vijayyy03)
-[![Gmail](https://img.shields.io/badge/Email-jagdalevijay92%40gmail.com-red?style=flat-square&logo=gmail)](mailto:jagdalevijay92@gmail.com)
-
----
-
-## 👨‍💻 **About Me**
-
-🎓 Completed **Master of Computer Applications (MCA)** from **MIT-World Peace University** (2023–2025)  
-💻 **Software Engineer** with expertise in **Python**, **Java**, **SQL**, and **Full Stack Development**  
-🤖 Experienced in **Machine Learning**, **Computer Vision**, and **Data Science**  
-🚀 Passionate about building **scalable applications** and solving **real-world problems**  
-🌱 Currently enhancing my expertise in **Cloud & AI-powered full-stack projects**
-
----
-
-## 🛠 **Tech Stack**
-
-**Languages:**  
-`Python` | `Java` | `C++` | `JavaScript` | `SQL` | `HTML/CSS`
-
-**Frameworks & Libraries:**  
-`OpenCV` | `Scikit-learn` | `NumPy` | `Pandas` | `Flask` | `React` | `Node.js`  
-
-**Databases:**  
-`MySQL` | `SQLite`  
-
-**Other Skills:**  
-`Machine Learning` | `Computer Vision` | `DSA` | `OOP` | `Software Testing` | `Linux` | `Git & GitHub`
-
----
-
-## 🏆 **Experience**
-
-### **💼 Machine Learning Intern – BARC (Bhabha Atomic Research Centre)**  
-**Jan 2025 – July 2025**  
-- Built a **real-time pipeline defect detection system** using **OpenCV + Deep Learning**  
-- Achieved **95% precision** over 20,000+ frames, reducing manual inspection by **30%**  
-- Deployed a **production-grade computer vision pipeline**, improving operational safety  
-
----
-
-## 🚀 **Highlighted Projects**
-
-### **🌾 ML-Driven Crop Yield Prediction**
-- Developed a predictive model with **92% accuracy** using **Python, Scikit-learn**  
-- Processed 10+ years of agricultural data with **advanced feature engineering**  
-- Built a **recommendation engine** helping farmers increase yield by 15%
-
-### **💼 HireEase Job Portal**
-- Full-stack job platform built with **Java + JDBC + MySQL**  
-- Designed a **role-based authentication** system with secure CRUD  
-- Optimized queries achieving **95% performance improvement**
-
----
-
-## 📊 **GitHub Analytics**
+<h1 align="center">Hey 👋, I'm Vijay Jagdale</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vijayyy03&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayyy03&theme=tokyonight" alt="GitHub streak" height="150"/>
+  💻 Full Stack Developer | 🤖 ML & Computer Vision Enthusiast | 🎓 MCA Graduate | 💡 Creative Coder
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayyy03&layout=compact&theme=tokyonight" height="150"/>
+  <a href="mailto:jagdalevijay92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vijaysatishjagdale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Vijayyy03"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📬 **Let's Connect!**
+## 🧠 About Me
 
-💌 [Email Me](mailto:jagdalevijay92@gmail.com) |  
-🔗 [LinkedIn](https://www.linkedin.com/in/vijaysatishjagdale/) |  
-🌐 [Portfolio](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
+- 🎓 MCA Graduate (2025) – MIT-World Peace University  
+- 💼 Software Developer | ML Intern at BARC  
+- ⚙️ Languages: Python, Java, C++, JavaScript, SQL  
+- 📚 Interests: AI/ML, Full Stack Apps, Computer Vision, Backend APIs  
+- 🌐 Portfolio: [vijay-portfolio.vercel.app](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
 
-⭐ *Thanks for visiting my GitHub profile!*
+💡 I love turning complex problems into clean, scalable software systems — from ML pipelines to modern web apps.
 
+---
+
+## 🔧 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql,sqlite,git,github,linux" /><br>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,react,opencv,sklearn,pandas,numpy,vscode" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🧪 Machine Learning Intern – BARC *(Jan 2025 – July 2025)*
+- Built a deep learning-based pipeline defect detection system using OpenCV  
+- Achieved 95% precision on 20k+ frames, reducing inspection time by 30%  
+- Deployed a production-grade computer vision pipeline with cross-functional teams
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 ML Crop Yield Predictor
+> Python · Scikit-learn · Pandas · NumPy  
+- Trained on 10+ years of crop data, 92% accuracy  
+- Assisted farmers with smart crop recommendations
+
+### 🧑‍💼 HireEase Job Portal
+> Java · JDBC · MySQL  
+- Secure platform with role-based login, full CRUD, optimized SQL  
+- Designed relational DB (3+ tables) with clean modular backend
+
+### 🧠 AI Merch Maker (Lite)
+> Flask · OpenAI API · Automation  
+- Automated merch design & generation using AI APIs and cron scheduling  
+- Built for a real-world product internship use-case
+
+---
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Vijayyy03/Crop-Yield-Prediction">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vijayyy03&repo=Crop-Yield-Prediction&theme=radical" />
+  </a>
+  <a href="https://github.com/Vijayyy03/HireEase-Job-Portal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vijayyy03&repo=HireEase-Job-Portal&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vijayyy03&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijayyy03&theme=tokyonight" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayyy03&layout=compact&theme=tokyonight" height="150px"/>
+</p>
+
+---
+
+## 📈 Contributions & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijayyy03&theme=tokyo-night" />
+</p>
+
+---
+
+## 💬 Let's Connect!
+
+- 📬 [jagdalevijay92@gmail.com](mailto:jagdalevijay92@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vijaysatishjagdale/)  
+- 🌐 [Portfolio](https://vijay-portfolio-n6cu09cx9-vijays-projects-1a5b8e02.vercel.app)
+
+---
+
+<p align="center">
+  Made with ❤️ by <strong>Vijay Jagdale</strong>
+</p>
