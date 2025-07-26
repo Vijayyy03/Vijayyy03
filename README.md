@@ -62,20 +62,6 @@
 - Automated merch design & generation using AI APIs and cron scheduling  
 - Built for a real-world product internship use-case
 
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Vijayyy03/Crop-Yield-Prediction">
-    <img align="center" src="https://github.com/Vijayyy03/crop_project.git" />
-  </a>
-  <a href="https://github.com/Vijayyy03/HireEase-Job-Portal">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Vijayyy03&repo=HireEase-Job-Portal&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
